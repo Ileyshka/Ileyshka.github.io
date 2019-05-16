@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    background-color:cornsilk;
+}
+
+header {
+    background: url(../img/logo.jpg) no-repeat center top / cover;
+    width: 100%;
+    height: 657px;
+}
+
+a {
+    box-sizing: border-box;
+}
+
+
+.Welcome {
+    color:aliceblue;
+    width: 400px;
+    margin: 0 auto;
+    font-weight: 700;
+    padding-top: 170px;
+    text-align: center;
+}
+
+.number {
+    font-size:60px;
+    padding-top:
+}
+
+.number_two {
+    font-size:18px;
+    margin-top:30px;
+    font-weight: 500;
+}
+
+span {
+    margin-left:33px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color:aliceblue;
+    background: #e91e63;
+    width: 200px;
+    padding: 17px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size:15px;
+    border-radius: 7px;
+}
+
+.button {
+    display: block;
+    margin-top:30px;
+}
+
+.container {
+    background: url(../img/DH.jpg) no-repeat center top / cover;
+    margin-top:40px;
+    height: 500px;
+}
+
+.sell {
+      color:darkgrey;
+    width: 400px;
+    margin: 0 auto;
+    font-weight: 900;
+    font-size:40px;
+    width: 600px;
+    text-align: center;
+    padding-top:100px;
+    float:left;
+     background-color:rgba(0,0,0,.3);
+}
+
+.cash {
+    color:darkgrey;
+    width: 400px;
+    margin: 0 auto;
+    font-weight: 900;
+    font-size:40px;
+    width: 600px;
+    text-align: center;
+    padding-top:100px;
+    float:right;
+     background-color:rgba(0,0,0,.3);
+}
+
+img {
+    height: 60px;
+    margin-top: -20px;
+}
