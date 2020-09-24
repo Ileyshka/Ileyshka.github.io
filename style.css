@@ -222,7 +222,7 @@ main h1
 #banner-mobil
 {
   height: 300px;
-  background-color: #cf1313;
+ 
 }
 .title
 {
@@ -331,4 +331,9 @@ footer
 #menu-catalog .active 
 {
   border: 2px solid #cf1313;
+}
+
+.banner img {
+  height: 350px;
+  width: 100%;
 }
